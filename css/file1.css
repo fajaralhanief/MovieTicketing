@@ -1,0 +1,485 @@
+@CHARSET "UTF-8";
+
+.tombol{ 
+    margin-bottom: 10px;
+    background-color: red;
+    border-width: 10px;
+    border-color: yellow;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 1px;
+}
+
+
+
+
+.progress-bar {
+    color: #333;
+} 
+.button {
+    background-color: #f2f2f2;
+    color: black;
+    border: 2px solid #008CBA;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+}
+
+
+.button:hover {
+    background-color: #008CBA; 
+    color: white;
+}
+
+input[type=table, type] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    outline: none;
+    margin: 10px;
+}
+
+
+input[type="table"]:focus,
+textarea:focus {
+  background-color:#FFE4B5;
+}
+
+    .form-control {
+      position: relative;
+      font-size: 16px;
+      height: auto;
+      padding: 10px;
+        box-sizing(border-box);
+
+        {
+          z-index: 2;
+        }
+    }
+
+input[type=email] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    outline: none;
+    margin: 10px;
+}
+
+
+input[type="email"]:focus,
+textarea:focus {
+  background-color:#FFE4B5;
+}
+
+    .form-control {
+      position: relative;
+      font-size: 16px;
+      height: auto;
+      padding: 10px;
+        box-sizing(border-box);
+
+        {
+          z-index: 2;
+        }
+    }
+
+input[type=password] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    outline: none;
+    margin: 10px;
+}
+
+
+input[type="password"]:focus,
+textarea:focus {
+  background-color:#FFE4B5;
+}
+
+    .form-control {
+      position: relative;
+      font-size: 16px;
+      height: auto;
+      padding: 10px;
+        box-sizing(border-box);
+
+        {
+          z-index: 2;
+        }
+    }
+
+input[type=kode_film] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    outline: none;
+    margin: 10px;
+}
+
+
+input[type="kode_film"]:focus,
+textarea:focus {
+  background-color:#FFE4B5;
+}
+
+    .form-control {
+      position: relative;
+      font-size: 16px;
+      height: auto;
+      padding: 10px;
+        box-sizing(border-box);
+
+        {
+          z-index: 2;
+        }
+    }
+
+input[type=kode_bioskop] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    outline: none;
+    margin: 10px;
+}
+
+
+input[type="kode_bioskop"]:focus,
+textarea:focus {
+  background-color:#FFE4B5;
+}
+
+    .form-control {
+      position: relative;
+      font-size: 16px;
+      height: auto;
+      padding: 10px;
+        box-sizing(border-box);
+
+        {
+          z-index: 2;
+        }
+    }
+
+input[type=kode_studio] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    outline: none;
+    margin: 10px;
+}
+
+
+input[type="kode_studio"]:focus,
+textarea:focus {
+  background-color:#FFE4B5;
+}
+
+    .form-control {
+      position: relative;
+      font-size: 16px;
+      height: auto;
+      padding: 10px;
+        box-sizing(border-box);
+
+        {
+          z-index: 2;
+        }
+    }
+
+input[type=kode_kursi] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    outline: none;
+    margin: 10px;
+}
+
+
+input[type="kode_kursi"]:focus,
+textarea:focus {
+  background-color:#FFE4B5;
+}
+
+    .form-control {
+      position: relative;
+      font-size: 16px;
+      height: auto;
+      padding: 10px;
+        box-sizing(border-box);
+
+        {
+          z-index: 2;
+        }
+    }
+
+input[type=kode_jadwal] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    outline: none;
+    margin: 10px;
+}
+
+
+input[type="kode_jadwal"]:focus,
+textarea:focus {
+  background-color:#FFE4B5;
+}
+
+    .form-control {
+      position: relative;
+      font-size: 16px;
+      height: auto;
+      padding: 10px;
+        box-sizing(border-box);
+
+        {
+          z-index: 2;
+        }
+    }
+
+
+input[type=id_customer] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    outline: none;
+    margin: 10px;
+}
+
+
+input[type="id_customer"]:focus,
+textarea:focus {
+  background-color:#FFE4B5;
+}
+
+    .form-control {
+      position: relative;
+      font-size: 16px;
+      height: auto;
+      padding: 10px;
+        box-sizing(border-box);
+
+        {
+          z-index: 2;
+        }
+    }
+
+
+input[type=nama] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    outline: none;
+    margin: 10px;
+}
+
+
+input[type="nama"]:focus,
+textarea:focus {
+  background-color:#FFE4B5;
+}
+
+    .form-control {
+      position: relative;
+      font-size: 16px;
+      height: auto;
+      padding: 10px;
+        box-sizing(border-box);
+
+        {
+          z-index: 2;
+        }
+    }
+
+body {
+    background: url(https://i.imgur.com/Sn8FZ7n.gif) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.login-form {
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+   -webkit-animation: fade 4s infinite 200ms;
+    animation: fade 4s infinite 200ms;
+}
+
+form[role=login] {
+
+    color: #5d5d5d;
+    background: #f2f2f2;
+    padding: 26px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+    form[role=login] img {
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 35px;
+    }
+    form[role=login] input,
+    form[role=login] button {
+        font-size: 18px;
+        margin: 16px 0;
+    }
+    form[role=login] > div {
+        text-align: center;
+    }
+    
+.form-links {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+    .form-links a {
+        color: #fff;
+    }
+
+@keyframes fadein {
+  0% {
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translate(0px, 0px);
+    opacity: 1;
+  }
+}
+
+.fadein {
+  animation-name: fadein; 
+  animation-duration: 0.5s; 
+}
+
+.btn {
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+
+#popup {
+width: 100%;
+height: 100%;
+position: fixed;
+background: rgba(0,0,0,.7);
+top: 0;
+left: 0;
+z-index: 9999;
+visibility: hidden;
+}
+
+
+#keluar {
+width: 100%;
+height: 100%;
+position: fixed;
+background: rgba(0,0,0,.7);
+top: 0;
+left: 0;
+z-index: 9999;
+visibility: hidden;
+}
+
+.window {
+width: 400px;
+height: 100px;
+background: #fff;
+border-radius: 10px;
+position: relative;
+padding-bottom: 200px;
+box-shadow: 0 0 5px rgba(0,0,0,.4);
+text-align: center;
+margin: 15% auto;
+}
+
+.close-button {
+width: 100px;
+height: 100px;
+background: #000;
+border-radius: 60%;
+border: 3px solid #fff;
+display: block;
+text-align: center;
+color: #fff;
+text-decoration: none;
+position: absolute;
+
+}
+
+#popup:target {
+visibility: visible;
+}
+
+#keluar:target {
+visibility: visible;
+}
+
+ .z{
+    outline: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 15px; color: black;
+    text-decoration: none;
+    margin-right: 40px;
+  }
+
+   .z:active{
+    outline: none;
+    border: 2px solid red;
+    border-radius: 5px;
+    font-size: 15px; color: red;
+    text-decoration: none;
+    margin-right: 40px;
+  }
+
+   .q{
+    outline: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 30px; color: black;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    font-weight: bold;
+  }
+
+   .q:active{
+    outline: none;
+    border: 2px solid red;
+    border-radius: 5px;
+    font-size: 30px; color: red;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    font-weight: bold;
+  }
