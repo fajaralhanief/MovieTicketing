@@ -1,8 +1,8 @@
-# Movie Ticketing menggunakan php, css, javascript
-## Deskripsi singkat app
-Aplikasi ini dibuat untuk mempermudah dalam transaksi pembelian tiket film di bioskop yang akan berguna bagi masyarakat zaman sekarang.
-### Cara menggunakan aplikasi:
-- Download/Clone repository ini
-- buka XAMPP dan jalankan
-- import movieticketing.sql
-- buka halaman utama web dengan localhost/proclub
+# MovieTicketing
+## Short description of the app
+This application is made to facilitate the purchase of movie ticket transactions in theaters that will be useful for today's society.
+### installation:
+- Download or Clone this repository
+- Open XAMPP and run it
+- Import movieticketing.sql to your database
+- Open the main web page with "localhost/proclub"
